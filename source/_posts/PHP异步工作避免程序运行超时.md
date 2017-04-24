@@ -12,7 +12,7 @@ categories:
 # 案例
 某SNS社区要求用户给自己好友（好友数量上百个）发送邮件，每封邮件内容不一，发送后提示发送完毕！
 # 常用PHP写法
-`sendmail.php`
+## sendmail.php
 ```php
 <?php
 $count=count($emailarr);//$emailarr数组为好友的邮件地址
